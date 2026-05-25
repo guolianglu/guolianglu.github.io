@@ -1,0 +1,8 @@
+{
+  "appID": "6MYQNJN6M2.com.guoliang.ULTest",
+  "paths": [
+    "/test/*",
+    "/test1",
+    "/ul-test/*"
+  ]
+}
